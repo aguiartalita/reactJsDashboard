@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Sobre o desenvolvimento /Aprendizado
 
-- Modulo 01 e 02:
+- Modulo 01/02 e 03:
 
 * Propriedades;
 * Bundlers;
@@ -21,6 +21,14 @@ Currently, two official plugins are available:
 * Desestruturação de props;
 * Iteração JSX;
 * Calculos para aplicação de medidas responsivas;
+* Clousure;
+* Clean Cod;
+* Programação imperativa / Programação declarativa;
+* Typescript
+* Tipagem Estática / Tipagem Dinâmica
+* Desestruturação props.
+
+- Pausa no desenvolvimento, para desenvolvimento de projeto proposto para estudo :toDoList em react typescript, a partid e um design figma desenvolvido.
 
 ![Tela com desenvolvimento estático até o momento do commit](image.png)
 
